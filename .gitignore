@@ -1,0 +1,14 @@
+*.pyc
+*.sh
+*.out
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.idea/*
+*.log
+*.csv
+*/model/*
+model/*
+*/data/*
+data/*
